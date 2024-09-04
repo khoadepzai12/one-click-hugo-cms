@@ -1,7 +1,7 @@
 ---
 title: BAO THANH NIEN
 date: 2024-09-04T03:22:40.388Z
-description: "Tội ác trong một mái ấm: Những trận đòn chí mạng"
+description: "Tội ác trong một mái ấm: Những trận đòn chí mạng "
 image: https://images2.thanhnien.vn/528068263637045248/2024/9/3/b1-ol-17253794567461891228551.jpg
 ---
 Không chỉ nhóm trẻ sơ sinh, hàng loạt trẻ em khác (độ tuổi từ 1 - 4 tuổi) ở Mái ấm Hoa Hồng (L52 Tô Ký, P.Trung Mỹ Tây, Q.12, TP.HCM) cũng bị các bảo mẫu hành hạ không thương tiếc.
