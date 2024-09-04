@@ -2,6 +2,7 @@
 title: BÁO THANH NIÊN
 date: 2024-09-04T03:15:21.536Z
 description: "Tội ác trong một mái ấm: Những trận đòn chí mạng"
+image: https://images2.thanhnien.vn/528068263637045248/2024/9/3/b1-ol-17253794567461891228551.jpg
 ---
 Bóp mũi, nhét thuốc vào miệng đến chảy máu
 
